@@ -1,0 +1,6 @@
+.env
+.env.bat
+.code-workspace
+__pycache__/
+ngrok
+ngrok.exe
